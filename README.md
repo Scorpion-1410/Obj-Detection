@@ -3,7 +3,7 @@ A python script that helps to detect number of differnt object from a given imag
 
 ## Terminal Command Format
 ```
-python detection.py fullpath_of_image(exclduing file name) Filename(with extension) 
+python detection.py Fullpath_of_image(exclduing file name) Filename(with extension) 
 ```
 ## Output
 ```
